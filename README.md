@@ -6,7 +6,7 @@
 |---|---|
 | Public Score | 0.9577 |
 | Private Score | 0.9717 |
-| Overall Ranking | **1st Place** |
+| Overall Ranking | **1st Winner** |
 
 ## 📋 Overview
 
